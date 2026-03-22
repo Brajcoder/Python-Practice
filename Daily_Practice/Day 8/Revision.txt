@@ -1,0 +1,17 @@
+Revise these:
+
+Subarray meaning
+Sliding window (fixed vs variable)
+Dictionary usage
+Two pointers
+
+
+Take any project (like expense tracker or contact book)
+
+👉 Add one feature:
+
+Examples:
+
+Delete entry
+Update entry
+Better output formatting
